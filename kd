@@ -1,0 +1,83 @@
+[33mcommit 0747864742c0ce5965b9804bc48f84887ea50995[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ubuntu <ubuntu@ip-10-0-24-106.ec2.internal>
+Date:   Sun Oct 1 08:21:36 2023 +0000
+
+    testing the commits
+
+[33mcommit 8dccab4e8ccf2cf7de107893165b6d1ddfea5b2b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aman.vats8899 <insaaman777@gmail.com>
+Date:   Sun Oct 1 13:40:08 2023 +0530
+
+    Update index.html
+
+[33mcommit dfb787cd2e192c6c89439d84d78ef4be3843bdc0[m
+Author: aman.vats8899 <insaaman777@gmail.com>
+Date:   Sun Oct 1 12:36:30 2023 +0530
+
+    Update index.html
+
+[33mcommit a5cbc1b7db66a10ee3995840e54c948c4a2af5ac[m
+Author: Ubuntu <ubuntu@ip-10-0-31-82.ec2.internal>
+Date:   Sat Sep 30 21:13:53 2023 +0000
+
+    love message
+
+[33mcommit 7c4387cf119fb84a3aed5c63d497b8917e39f583[m
+Author: aman.vats8899 <insaaman777@gmail.com>
+Date:   Sun Oct 1 02:41:14 2023 +0530
+
+    Update index.html
+
+[33mcommit 9155fefbed888dfdaa74375b6d25bb057e435a1d[m
+Author: aman.vats8899 <insaaman777@gmail.com>
+Date:   Sun Oct 1 02:36:10 2023 +0530
+
+    Update Dockerfile
+
+[33mcommit 3512737a4b524fa8beb5bc7232f4dc4937a445c8[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Tue Jan 29 10:15:35 2019 +0000
+
+    changing one more time
+
+[33mcommit 301276fd13beb23efff3f998fda74cd4a299a7ee[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Tue Jan 29 10:13:00 2019 +0000
+
+    Changed website text
+
+[33mcommit 416f744c38c3201c52fca5fcf80517edaf8e7845[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Tue Jan 29 07:31:41 2019 +0000
+
+    adding test jar file
+
+[33mcommit b34be31decc796594e422a532e5e648ac97ecba9[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Mon Jan 28 17:28:58 2019 +0000
+
+    modified test
+
+[33mcommit 70629645409eb7ec8bcace82cde4be4f7f35d082[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Mon Jan 28 16:50:18 2019 +0000
+
+    added selenium test file
+
+[33mcommit 3b0ef79e74478b562cd05d9cc80356ddd806bb70[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Mon Jan 28 14:52:55 2019 +0000
+
+    index changed
+
+[33mcommit 24c3143dc18ef6dd30474b4bb9d58545b6a78180[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Mon Jan 28 14:46:54 2019 +0000
+
+    adding dockerfile
+
+[33mcommit 15681122f2c1c2915ebff218e32f9995dcf3beae[m
+Author: Ubuntu <ubuntu@ip-172-31-45-157.us-east-2.compute.internal>
+Date:   Mon Jan 28 14:08:55 2019 +0000
+
+    added website
